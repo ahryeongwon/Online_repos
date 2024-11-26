@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# 20241126 수정
 """
 Created on Mon Nov  4 18:35:23 2024
 
