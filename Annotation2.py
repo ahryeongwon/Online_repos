@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# 20241127 수정
+# 20241127 최종
 """
 Created on Mon Nov  4 18:35:23 2024
 
@@ -91,5 +91,8 @@ if __name__ == "__main__":
     segment_image(PathNames + "//000000000285.jpg")
 
 
+<<<<<<< HEAD
 
 print("다음 사진으로 넘어가게끔 수정")
+=======
+>>>>>>> feature/extension
