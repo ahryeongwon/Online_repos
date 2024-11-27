@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# 20241126 수정
+# 20241127 수정
 """
 Created on Mon Nov  4 18:35:23 2024
 
@@ -89,3 +89,6 @@ def segment_image(image_path):
 if __name__ == "__main__":
     PathNames = r"D:\02_Lectures\2024_2nd\Lecture_Materials\SW_Dev\Project\val2017\val2017"
     segment_image(PathNames + "//000000000285.jpg")
+
+
+ print("다음으로 넘어가게끔 수정")
